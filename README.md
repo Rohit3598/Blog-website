@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/blog-management-app.git
+   git clone https://github.com/Rohit3598/Blog-website.git
 
 ` 2. Install dependencies:
 
